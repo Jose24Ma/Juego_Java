@@ -1,0 +1,225 @@
+@import url('https.//fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+:root{
+    --font-style:'Nunito Sans',sans-serif;
+}
+input {padding:20px}
+.ok {color:green; font-weight: bold;}
+.ko {color:red; font-weight: bold;}
+/* *{
+margin:0; padding:0;
+font-family: var(--font-style);
+}
+body{
+    background: #fffffa;
+}
+header{
+    width: 100%;
+    overflow: hidden;
+    background: #252932;
+    margin-bottom: 20px;
+}
+.wrapper{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+header .logo{
+    color: #F2F2F2;
+    font-size: 50px;
+    line-height: 200px;
+    float: left;
+    align-items: center;
+}
+header nav{
+    float: right;
+    line-height: 200px;
+}
+header nav a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+header nav a:hover{
+    background: #8ACF41;
+    border-radius: 50px;
+}
+.header2 {
+    position: fixed;
+    height: 100px;
+}
+.header2 .logo{
+    line-height: 100px;
+    font-size: 30px;
+}
+.header2 nav{
+    line-height: 100px;
+}
+
+@media screen and (max-width:950px) {
+    header .logo,
+    header nav{
+        width:100%;
+        text-align:center;
+        line-height:100px;
+    } 
+    .header2{
+        height: auto;
+    }
+    .header2 .logo,
+    .header2 nav{
+        line-height: 50px;
+    }
+}
+.logo img{
+    width: 25%;
+    height: 80px;
+    float: left;
+    margin: 5.8px;
+    display: flex;   
+}
+
+.contenido{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: #252932;
+    width: 290px;
+    height: 530px;
+    margin: 10px;
+    border-radius: 15px ;
+}
+.card-image{
+    box-shadow: 0 4px 8px 0 rgba(227, 213, 213, 0.2);
+    background-color: #dcdcd5;
+    transition: 0.3s;
+    height: 290px;
+    margin-bottom: 20px;
+    background-size:cover;
+}
+.car-1{
+    background-image: url(../img/Pentagono.png);      
+}
+.car-2{
+    background-image: url(../img/Rombo.png);
+}
+.car-3{
+    background-image: url(../img/decagono.png) ;
+}
+.card p{
+    padding: 10px;
+    color: whitesmoke;
+}
+.card h2{
+    text-align: center;
+    color: whitesmoke;
+}
+.card p{
+    padding: 10px;
+}
+.card a{
+    background-color: rgba(227, 213, 213, 0.2);;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.card a:hover{
+    background: #8ACF41;
+    
+}
+
+fieldset {
+    background-color: #eeeeee;
+    width: 1500px;
+    height: 500px;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 2em;
+    border: 3px groove (internal value);
+    margin: 10px auto;
+    size: 20px;
+    text-align: center;
+    
+}
+label{
+    font-size: 25px;
+    margin-left: 15px;
+}
+input[type="text"]
+{
+    width: 350px;
+    line-height: 40px;
+    border-style: none;
+    outline: 0;
+    color: black;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    box-shadow: inset 2px 0px 0px 0px rgb(134, 15, 15);
+    transition: all 200ms ease;
+    font-size: 25px;
+    margin-left: 15px;
+    border-color: aqua;
+}
+
+.Pentagono{
+    float:left;
+    width: 300px;
+    height: 320px;
+    margin-left: 15px;
+    vertical-align: middle;
+    margin-top: 170px;
+    margin-left: 5px;
+}
+
+button{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+    color: #252932;
+    margin-left: 15px;
+    
+}
+button:hover{
+    background: #8ACF41;
+    border-radius: 50px;
+}
+.form-field25{
+    
+    margin-top: -2px;
+    margin-left: 90px;
+    margin-right: 100px;
+}
+.form-field2{
+    margin-right: 500px;
+}
+
+.form-fieldd{
+    float:right;
+    margin-right: 100px;
+    margin-top: -85px;
+}
+.but{
+    margin-right: 350px;
+    margin-left: 359px;
+} */

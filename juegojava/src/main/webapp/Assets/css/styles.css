@@ -1,0 +1,41 @@
+@import url('https.//fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+:root{
+    --font-style:'Nunito Sans',sans-serif;
+}
+input {padding:20px}
+*{
+margin:0; padding:0;
+font-family: var(--font-style);
+}
+h1{
+    margin-bottom: -40px;
+}
+input[type="text"]
+{
+    margin: 15px;
+    width: 340px;
+    line-height: 40px;
+    color: black;
+    font-size: 20px;
+    padding: 0px 9px;
+    transition: all 200ms ease;
+    font-size: 25px;
+    margin-left: 15px;
+    border-color: rgb(97, 124, 124);
+}
+fieldset {  
+    background-color: #eeeeee;
+    width: 1300px;
+    height: 500px;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 2em;
+    border: 3px groove (internal value);
+    margin: 10px auto;
+    size: 20px;
+    text-align: center;
+}
+.caja{
+    margin-bottom: -10px;
+}
